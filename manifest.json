@@ -1,10 +1,9 @@
 {
-  "name": "KEys for Trello",
+  "name": "Keys for Trello",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Supercharge Trello with Keyboard shortcuts",
   "homepage_url": "https://github.com/AeroCross/keys-for-trello",
-  "default_locale": "en",
   "background": {
     "page": "src/bg/background.html",
     "persistent": false
